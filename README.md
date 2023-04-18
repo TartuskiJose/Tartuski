@@ -1,2 +1,4 @@
 # Tartuski
-Este repositorio contiene los archivos de configuración que hemos hecho nosotros para nuestro menú en EmulationStation. Aquí encontrarás el archivo .xml, los controles que hemos asignado y unas fotos para poder visualizarlo. Siéntete libre de explorar y utilizar este contenido para tus propios proyectos. ¡Gracias por visitar este repositorio!
+This repository contains the configuration files that we have made for our menu in EmulationStation. Here you will find the .xml file, the controls that we have assigned and some photos to view it. Feel free to explore and use this content for your own projects. Thanks for visiting this repository!
+
+<a href=https://github.com/TartuskiJose/Tartuski/wiki/Documentation>Documentation</a>
