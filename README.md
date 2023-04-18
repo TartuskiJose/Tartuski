@@ -3,5 +3,8 @@ This repository contains the configuration files that we have made for our menu 
 
 <a href=https://github.com/TartuskiJose/Tartuski/wiki/Documentation>Documentation</a>
 
+![logo (1)](https://user-images.githubusercontent.com/131180909/232874795-5e8d937d-a73b-4c5f-abf4-6ca74f2732ed.png)
 
-![logo](https://user-images.githubusercontent.com/131180909/232874045-501f01de-0a5c-409f-9605-3b5383a53858.png)
+
+
+
