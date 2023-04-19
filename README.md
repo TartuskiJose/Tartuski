@@ -6,7 +6,7 @@ IMPORTANT THIS IS FOR ARCH LINUX MANJARO
 
 
 <p align="center">
-  <img src="logo tartuski.png" />
+  <img src="logo.png" />
 </p>
 
 
