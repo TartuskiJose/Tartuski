@@ -36,3 +36,5 @@ emulationstation
 ````
 Con estos pasos habrás descargado e instalado EmulationStation en tu sistema Arch Linux o Manjaro. Ahora podrás disfrutar de tus juegos retro favoritos desde una interfaz gráfica amigable y personalizable.
 
+### <a href=https://github.com/TartuskiJose/Tartuski/wiki/Emulation-Station>Emulation Station</a>
+
