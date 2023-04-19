@@ -1,4 +1,5 @@
 # Tartuski
+
 This repository contains the configuration files that we have made for our menu in EmulationStation. Here you will find the .xml file, the controls that we have assigned and some photos to view it. Feel free to explore and use this content for your own projects. Thanks for visiting this repository!
 
 IMPORTANT THIS IS FOR ARCH LINUX MANJARO
@@ -17,9 +18,10 @@ You can download and install EmulationStation on Arch Linux or Manjaro by follow
 
 1. Open a terminal in Arch Linux or Manjaro. 
 2. Update the list of available packages by running the following command:    
-''''bash
-sudo pacman -Syu
-''''
+
+````bash
+  sudo pacman -Syu
+````
 3. Install EmulationStation by running the following command:     
 
 <pre>sudo pacman -S emulationstation</pre>
