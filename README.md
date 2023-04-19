@@ -3,7 +3,7 @@ This repository contains the configuration files that we have made for our menu 
 
 IMPORTANT THIS IS FOR ARCH LINUX MANJARO
 
-<a href=https://github.com/TartuskiJose/Tartuski/wiki/Documentation>Documentation</a>
+
 
 <p align="center">
   <img src="logo tartuski.png" />
