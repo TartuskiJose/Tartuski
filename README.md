@@ -25,7 +25,7 @@ You can download and install EmulationStation on Arch Linux or Manjaro by follow
 3. Install EmulationStation by running the following command:     
 
 ````bash
-sudo pacman -S emulationstation</pre>
+sudo pacman -S emulationstation
 ````
 
 4. Wait for EmulationStation to download and install on your system.
