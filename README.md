@@ -69,13 +69,14 @@ retroarch
 ````
 With these steps you will have downloaded and installed RetroArch on your Arch Linux or Manjaro system. Now you will be able to enjoy your favorite retro games from a friendly and customizable graphical interface. Remember that you will also need to configure the emulators and ROMs for each system you wish to emulate in RetroArch.
 
+### Settings 
+
+Within retroarch we enter Settings -> Directories, and assign a folder to assign the cores and bios.
+
 ### <a href=https://github.com/TartuskiJose/Tartuski/wiki/RetroArch>RetroArch</a>
 
 <img src="Icons/Retroarch.png" width=500 height=500 />
 
-### Settings 
-
-Within retroarch we enter Settings -> Directories, and assign a folder to assign the cores and bios.
 
 
 
