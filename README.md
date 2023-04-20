@@ -72,3 +72,12 @@ With these steps you will have downloaded and installed RetroArch on your Arch L
 ### <a href=https://github.com/TartuskiJose/Tartuski/wiki/RetroArch>RetroArch</a>
 
 <img src="Icons/Retroarch.png" width=500 height=500 />
+
+### Settings 
+
+Within retroarch we enter Settings -> Directories, and assign a folder to assign the cores and bios.
+
+
+
+
+
