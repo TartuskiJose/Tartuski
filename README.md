@@ -36,6 +36,10 @@ With these steps you will have downloaded and installed EmulationStation on your
 
 <img src="Icons/EM.png" />
 
+### Our configuration file is in the xml extension, here is the theme that we have, which we edited from the initial one.
+
+### <a href=https://github.com/TartuskiJose/Tartuski/blob/main/variant_02.xml>variant_02.xml</a>
+
 # Retro Arch
 
 ### In this part of the wiki we teach you how to download RetroArch in Arch Linux Manjaro
