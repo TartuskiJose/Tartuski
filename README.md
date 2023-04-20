@@ -4,6 +4,13 @@ This repository contains the configuration files that we have made for our menu 
 
 ### IMPORTANT THIS IS FOR ARCH LINUX MANJARO
 
+### Script that we have used to hide the mouse when the computer starts :
+
+````bash
+#!/bin/bash
+unclutter -iddle 0.01 -root
+````
+
 <p align="center">
   <img src="logo.png" />
 </p>
