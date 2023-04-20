@@ -30,7 +30,7 @@ sudo pacman -S emulationstation
 ````bash
 emulationstation
 ````
-Con estos pasos habrás descargado e instalado EmulationStation en tu sistema Arch Linux o Manjaro. Ahora podrás disfrutar de tus juegos retro favoritos desde una interfaz gráfica amigable y personalizable.
+With these steps you will have downloaded and installed EmulationStation on your Arch Linux or Manjaro system. Now you will be able to enjoy your favorite retro games from a friendly and customizable graphical interface.
 
 ### <a href=https://github.com/TartuskiJose/Tartuski/wiki/Emulation-Station>Emulation Station</a>
 
@@ -51,8 +51,8 @@ To download and install RetroArch on Arch Linux or Manjaro, follow these steps:
 ````bash
 sudo pacman -S retroarch
 ````
-4. Espera a que se descargue e instale RetroArch en tu sistema.
-5. Una vez que la instalación se complete, puedes abrir RetroArch ejecutando el siguiente comando:
+4. Wait for RetroArch to download and install on your system.
+5. Once the installation is complete, you can open RetroArch by running the following command:
 ````bash
 retroarch
 ````
